@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaskedRealm
-- 📫 My name is Saif
-- 👀 I’m interested in sotware programs
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on software\web related projects
+- Welcom to the Masked Realm
+- My name is Saif Akhter
+- I am a Software/Data Engineer at Analytics pvt ltd
+- Hope you find my page useful !
 
 
 <!---
